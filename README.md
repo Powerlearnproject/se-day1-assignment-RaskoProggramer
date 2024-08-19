@@ -24,6 +24,10 @@ List and briefly explain the phases of the Software Development Life Cycle.
 - Maintenance: Continuously improve and update the software post-deployment to fix any issues, enhance functionality, or adapt to changing user needs
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+- Predictability vs. Flexibility: Waterfall offers predictability and a structured approach but is less adaptable to changes, while Agile provides flexibility and adaptability but may be less predictable in terms of timelines and costs.
+- Documentation vs. Collaboration: Waterfall emphasizes comprehensive documentation, whereas Agile focuses more on collaboration and working software, often at the expense of detailed documentation.
+- Change Management: Waterfall is better suited for projects with stable requirements, whereas Agile thrives in environments where requirements are expected to change.
+- 
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
