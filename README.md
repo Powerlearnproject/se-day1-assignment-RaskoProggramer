@@ -67,6 +67,9 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+- Prompt engineering is essential in ensuring that AI models like GPT produce relevant, accurate, and context-appropriate responses. It plays a critical role in maximizing the effectiveness of AI, tailoring interactions to specific needs, reducing the risk of bias, and ultimately providing users with a more reliable and satisfying experience. As AI continues to evolve and become more integrated into various applications, the importance of prompt engineering will only increase, making it a key skill for anyone working with or designing AI systems.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+- Vague Prompt: "Explain technology."
+- Clear and Specific Prompt: "Explain the impact of smartphone technology on modern communication and social interaction."
